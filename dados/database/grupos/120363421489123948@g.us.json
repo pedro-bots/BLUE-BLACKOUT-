@@ -1,0 +1,56 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-11T15:24:50.492Z",
+  "groupName": "₊˚⊹♡ 『 *⏤͟͟͞͞ PEDRO BOT⛤⃗ 💙* 』 ♡⊹˚₊",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "139320602194069@lid",
+      "msg": 90,
+      "cmd": 81,
+      "figu": 1,
+      "pushname": "Pedro",
+      "firstSeen": "2026-01-11T15:24:50.504Z",
+      "lastActivity": "2026-01-11T16:55:10.870Z"
+    },
+    {
+      "id": "272086731858061@lid",
+      "msg": 46,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Gustavo team",
+      "firstSeen": "2026-01-11T15:25:50.138Z",
+      "lastActivity": "2026-01-11T16:04:02.731Z"
+    },
+    {
+      "id": "194021506965551@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Ａｌｏｎｅ ｂｏｙ",
+      "firstSeen": "2026-01-11T15:26:30.528Z",
+      "lastActivity": "2026-01-11T15:26:30.528Z"
+    },
+    {
+      "id": "77932802396397@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Vinícios",
+      "firstSeen": "2026-01-11T16:03:36.112Z",
+      "lastActivity": "2026-01-11T16:03:38.293Z"
+    }
+  ],
+  "welcome": {
+    "image": "https://raw.githubusercontent.com/nazuninha/uploads/main/fotos/1768148929470_5wssvd.jpg"
+  }
+}

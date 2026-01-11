@@ -1,0 +1,53 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-11T15:20:55.730Z",
+  "groupName": "🌴  ͟͟͞͞SᕮT ᗞ𝚯 ᒪᑌᑕᑕ𝚫 ͟͟͞͞³²⁸˚🎭🌴",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "75071985061960@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Bruna",
+      "firstSeen": "2026-01-11T15:20:55.752Z",
+      "lastActivity": "2026-01-11T15:21:11.599Z"
+    },
+    {
+      "id": "194411879243926@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "thi💯",
+      "firstSeen": "2026-01-11T16:23:23.525Z",
+      "lastActivity": "2026-01-11T16:37:01.380Z"
+    },
+    {
+      "id": "49710572286047@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "𝘓𝘦𝘰𝘱𝘰𝘭𝘥𝘰",
+      "firstSeen": "2026-01-11T16:36:22.794Z",
+      "lastActivity": "2026-01-11T16:48:48.865Z"
+    },
+    {
+      "id": "221113909018874@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "coisa ruim",
+      "firstSeen": "2026-01-11T16:39:21.044Z",
+      "lastActivity": "2026-01-11T16:39:21.398Z"
+    }
+  ]
+}

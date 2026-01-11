@@ -1,0 +1,44 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-11T16:07:23.701Z",
+  "groupName": "ঔৣDARK BOT CHAT  ོ⃟🏴‍☠️",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "105957598195719@lid",
+      "msg": 31,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝓭𝓾𝔃𝓲𝓷𝓷",
+      "firstSeen": "2026-01-11T16:07:23.725Z",
+      "lastActivity": "2026-01-11T16:54:27.194Z"
+    },
+    {
+      "id": "112301332013103@lid",
+      "msg": 28,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "dark bot",
+      "firstSeen": "2026-01-11T16:07:28.244Z",
+      "lastActivity": "2026-01-11T16:52:30.326Z"
+    },
+    {
+      "id": "139320602194069@lid",
+      "msg": 13,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Pedro",
+      "firstSeen": "2026-01-11T16:13:08.701Z",
+      "lastActivity": "2026-01-11T16:54:31.300Z"
+    }
+  ]
+}

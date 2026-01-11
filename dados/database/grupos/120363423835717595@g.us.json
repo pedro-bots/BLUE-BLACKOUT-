@@ -1,0 +1,26 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-11T16:56:08.328Z",
+  "groupName": "Bot",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "204986021634087@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Otávio Amaral",
+      "firstSeen": "2026-01-11T16:56:08.350Z",
+      "lastActivity": "2026-01-11T16:56:08.350Z"
+    }
+  ]
+}

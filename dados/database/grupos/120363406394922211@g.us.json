@@ -1,0 +1,80 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-11T16:13:25.414Z",
+  "groupName": "ℬlackout✘♚✘",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "198350800462026@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Pequenina yamazaky",
+      "firstSeen": "2026-01-11T16:13:25.429Z",
+      "lastActivity": "2026-01-11T16:13:25.429Z"
+    },
+    {
+      "id": "243941911855213@lid",
+      "msg": 9,
+      "cmd": 0,
+      "figu": 4,
+      "pushname": "亗Tosh Blackout ᵒᶠᶦᶜᶦᵃˡ",
+      "firstSeen": "2026-01-11T16:40:53.692Z",
+      "lastActivity": "2026-01-11T17:55:06.030Z"
+    },
+    {
+      "id": "60374908969045@lid",
+      "msg": 13,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Tosh ℬlackout",
+      "firstSeen": "2026-01-11T16:41:19.688Z",
+      "lastActivity": "2026-01-11T17:54:48.141Z"
+    },
+    {
+      "id": "209771168825411@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "CHIHIRO BOT",
+      "firstSeen": "2026-01-11T16:53:03.441Z",
+      "lastActivity": "2026-01-11T16:53:03.441Z"
+    },
+    {
+      "id": "184989241094239@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Daniel Dev </> | Omnix API",
+      "firstSeen": "2026-01-11T16:53:52.912Z",
+      "lastActivity": "2026-01-11T16:53:52.912Z"
+    },
+    {
+      "id": "1130297847842@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Dennys Fernando 👻",
+      "firstSeen": "2026-01-11T17:37:34.501Z",
+      "lastActivity": "2026-01-11T17:37:34.501Z"
+    },
+    {
+      "id": "135021524451480@lid",
+      "msg": 11,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "nao posso fala",
+      "firstSeen": "2026-01-11T17:41:49.202Z",
+      "lastActivity": "2026-01-11T17:55:06.570Z"
+    }
+  ]
+}
