@@ -1,5 +1,5 @@
 ⚡ BLUE BLACKOUT - O Bot Supremo para WhatsApp
-![blue Bot Banner](https://raw.githubusercontent.com/pedro-bots/BLUE-BLACKOUT-/main/dados/midias/menu.jpg)
+![nazuna Bot Banner](https://raw.githubusercontent.com/hiudyy/nazuna/main/dados/midias/menu.jpg)
 
 Seja bem-vindo ao repositório oficial do *BLUE BLACKOUT*, o bot mais insano, completo e personalizado da cena! Desenvolvido com foco em performance, estilo e funcionalidade, o BLUE BLACKOUT foi criado pra quem curte um bot poderoso, bonito e cheio de atitude.
 
